@@ -123,4 +123,21 @@ sn.pairplot(boston[['CRIM','RM','PTRATIO','LSTAT']])
 ```
 
 # OUPUT
+![outimg1](https://user-images.githubusercontent.com/94508142/170070085-622c2f40-d4fd-4f52-a954-513a64237f18.png)
+![outimg2](https://user-images.githubusercontent.com/94508142/170070129-05cd9b6d-6b0c-45ce-b263-dc0c69979ab3.png)
+![outimg3](https://user-images.githubusercontent.com/94508142/170070189-d6474eea-db54-49ef-ad8e-5616916ce3bd.png)
+![outimg4](https://user-images.githubusercontent.com/94508142/170070252-50fdb298-3c30-480f-aec0-a6040bd626b4.png)
+![outimg5](https://user-images.githubusercontent.com/94508142/170070309-e944204b-1dfa-40bf-8841-f3caf9e341a8.png)
+![outimg6](https://user-images.githubusercontent.com/94508142/170070367-89998b4a-8c4a-4dc0-bc6b-03cb126278b4.png)
+![outimg7](https://user-images.githubusercontent.com/94508142/170070423-26b58eaa-e981-4327-8948-ae143758a6e3.png)
+![outimg8](https://user-images.githubusercontent.com/94508142/170070523-7d1382be-cb4f-47ed-84ba-e9b715c2b34b.png)
+# Result:
+The various feature selection techniques on a dataset has been performed and the data has been saved to a file.
+
+
+
+
+
+
+
 
